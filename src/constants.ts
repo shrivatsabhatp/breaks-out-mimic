@@ -1,1 +1,1 @@
-export const gameSize = 20;
+export const gameSize = 30;

@@ -19,7 +19,7 @@ const createElem = col => {
       : (col === plyer
         ? 'cornflowerblue'
         : col === bll
-          ? 'gray'
+          ? 'red'
           : 'silver');
   elem.style['border-radius'] = col === bll ? '100%' : '0%';
   return elem;
